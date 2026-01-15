@@ -34,9 +34,9 @@ Proyek ini dibuat untuk membantu bisnis memahami kepuasan pelanggan secara cepat
 1. **Clone Repository**
    ```bash
    git clone [https://github.com/USERNAME_KAMU/Indonesian-Sentiment-Analysis.git](https://github.com/USERNAME_KAMU/Indonesian-Sentiment-Analysis.git)
-2. **Install Library
+2. **Install Library**
    ```bash
     pip install -r requirements.txt
-4. **Run APP
+4. **Run APP**
     ```bash
    streamlit run app_sentiment.py
