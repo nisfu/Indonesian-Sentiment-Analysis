@@ -28,6 +28,12 @@ Proyek ini dibuat untuk membantu bisnis memahami kepuasan pelanggan secara cepat
 * **Naive Bayes Efficiency**: Dipilih karena memiliki performa tinggi pada dataset teks kecil dan waktu proses yang sangat instan (low latency).
 * **Indonesian Nuance**: Model dilatih untuk mengenali kata-kata khas ulasan marketplace di Indonesia.
 
+
+## 🛠️ Future Improvements (Roadmap)
+Proyek ini masih dapat dikembangkan untuk mencapai akurasi yang lebih tinggi dengan:
+- [ ] **Stopwords Removal**: Menghapus kata umum (yang, di, dan) untuk fokus pada kata kunci bermakna.
+- [ ] **Stemming (Sastrawi)**: Mengubah kata berimbuhan menjadi kata dasar (misal: "mengecewakan" -> "kecewa") agar model lebih konsisten.
+- [ ] **Dataset Expansion**: Menambah dataset ulasan dari berbagai sektor (FnB, Elektronik, dll).
 ---
 
 ## 🚀 Cara Menjalankan di Lokal
